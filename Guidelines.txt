@@ -1,0 +1,12 @@
+1. Always change the node version to 18 
+  — nvm use 18
+
+2. Change the ruby version for IOS build
+  — nvm use 2.7.5
+
+3. Start the metro app
+ — npx react-native start
+
+4. Start the android app
+— npx react-native run-android    or run-its
+
