@@ -2,11 +2,14 @@
   — nvm use 18
 
 2. Change the ruby version for IOS build
-  — nvm use 2.7.5
+  — rvm use 2.7.5
+
+3. Create a new app
+  - npx react-native init AwesomeProject
 
 3. Start the metro app
  — npx react-native start
 
 4. Start the android app
-— npx react-native run-android    or run-its
+— npx react-native run-android    or run-ios
 

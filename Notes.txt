@@ -2,8 +2,9 @@ React Native
 
 Start using type script
 
-1.  View = div
+1. View = div
 2. Text = Write any text
 3. SafeAreaView = Display correct things because of notches data can be hidden
 4. StyleSheet = to create css which is always created in the Key and Value pair
 5. useColorSchema Hook = Gives the userPreferences of the user machine.
+6. ScrollView = scrollbar for the app.
