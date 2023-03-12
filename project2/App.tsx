@@ -1,6 +1,7 @@
 import { View, Text, SafeAreaView, ScrollView, StyleSheet } from 'react-native'
 import React from 'react'
 import Flat from './Components/Flat'
+import HorizonalScorll from './Components/HorizonalScorll'
 
 const App = () => {
   return (
@@ -10,6 +11,7 @@ const App = () => {
         <Text style={styles.heading}>Project2</Text>
         </View>
       <Flat/>
+      <HorizonalScorll />
       </ScrollView>
     </SafeAreaView>
   )
